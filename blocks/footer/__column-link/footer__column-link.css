@@ -1,0 +1,14 @@
+.footer__column-link {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-size: 18px;
+  line-height: 18px;
+  color: #ffffff;
+}
+
+.footer__column-link:last-of-type {
+  margin-bottom: 0;
+}

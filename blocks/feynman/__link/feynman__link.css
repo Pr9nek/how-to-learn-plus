@@ -1,0 +1,11 @@
+.feynman__link {
+  position: absolute;
+  right: 48px;
+  top: 50%;
+  font-family: 'Inter';
+  font-style: normal;
+  font-size: 36px;
+  line-height: 51px;
+  text-decoration: none;
+  color: #2f80ed;
+}
