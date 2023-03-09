@@ -1,0 +1,14 @@
+.resources__link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 38px;
+  width: 270px;
+  opacity: 1;
+  transition: opacity .5s ease;
+}
+
+.resources__link:hover {
+    opacity: 0.6;
+}
+
