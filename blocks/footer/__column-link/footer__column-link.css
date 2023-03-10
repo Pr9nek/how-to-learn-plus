@@ -1,7 +1,6 @@
 .footer__column-link {
   display: flex;
   align-items: center;
-  margin-bottom: 10px;
   font-family: 'Inter', 'Arial', sans-serif;
   font-style: normal;
   font-size: 18px;
@@ -14,8 +13,4 @@
 
 .footer__column-link:hover {
   opacity: 0.6;
-}
-
-.footer__column-link:last-of-type {
-  margin-bottom: 0;
 }
